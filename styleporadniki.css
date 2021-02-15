@@ -84,10 +84,10 @@ ul li {
 }
 
 ul a:link, ul a:visited {
-	display: block;
+	display: inline;
 	width: 550px;
 	text-align: center;
-	position: relative; 
+	position: absolute; 
 	text-decoration: none;
 	background-color: #F8BBD0;
 	color: #99FFFF;
