@@ -1,0 +1,133 @@
+body	{
+		background-color: #666633;
+		margin: 0;
+		padding: 0;
+}
+#naglowek {
+		height: 220px;
+		background-color: #666633;
+		color: #009966;
+		font-size: 40px;
+		margin-left: 0;		
+		margin-top: 0;
+		padding-left: 25px;
+		padding-top: 1px;
+		margin-bottom: 0;
+}
+
+#cialo{
+		
+		height: 110px;
+		width: 100%;
+		background-color: #CCCC66;
+}
+#spodwalki { 
+		height: 670px;
+		width: 100%;
+		background-color: #999966;
+}
+#spodbieganie { 
+		height: 600px;
+		width: 100%;
+		background-color: #999966;
+}
+
+#spodplywanie { 
+		height: 600px;
+		width: 100%;
+		background-color: #999966;
+}
+
+#spodpilka { 
+		height: 600px;
+		width: 100%;
+		background-color: #999966;
+}
+
+#spodkolarstwo { 
+		height: 600px;
+		width: 100%;
+		background-color: #999966;
+}
+
+#spodsilownia { 
+		height: 600px;
+		width: 100%;
+		background-color: #999966;
+}
+		
+ul, ul li {
+	display: block;
+	list-style: none;
+	
+}
+
+ul li {
+	float: left;
+	margin-right: 10px;
+	margin-left: 2px;
+	margin-top: 5px;
+}
+
+ul a:link, ul a:visited {
+	display: block;
+	width: 550px;
+	text-align: center;
+	position: relative; 
+	text-decoration: none;
+	background-color: #9E9D24;
+	color: white;
+	padding: 4px;
+	border: 8px outset #A67D3D;}
+
+ul a:hover {
+	border-style: inset;
+	color: black;
+	background-color: #666600;
+}
+	
+li, ol { 
+	 
+	padding-left: 50px;
+	font-family: Arial;
+	color: gold;
+	font-size: 15pt;
+	text-align: left;
+	
+}
+	
+p {
+	padding-left: 10px;
+	padding-right: 0;
+	color: white;
+	font-family: Arial;
+	font-size: 18px;
+}
+h2 {
+	font-family: Impact;
+	color: #009966;
+	font-size: 28pt;
+}
+h3 {
+	font-family: Times-new-roman;
+	color: #CCFF99;
+	font-size: 32px;
+}
+
+footer {
+	text-align: center;
+	color: white;
+	font-family: Times-new-roman;
+	font-size: 16pt;
+	background-color: #666633;
+}
+	
+
+
+
+
+
+
+
+
+

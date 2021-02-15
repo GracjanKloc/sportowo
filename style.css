@@ -1,0 +1,103 @@
+body	{
+		background-color: #339999;
+		margin: 0;
+		padding: 0;
+}
+#naglowek {
+		height: 250px;
+		background-color: #339999;
+		color: gold;
+		font-size: 36px;
+		margin-left: 0;		
+		margin-top: 0;
+		padding-left: 25px;
+		padding-top: 10px;
+		margin-bottom: 0;
+}
+
+
+#lewa {
+		height: 600px;
+		width: 50%;
+		background-color: #006699;
+		float: left;
+}
+
+#prawa {
+		height: 600px;
+		width: 50%;
+		background-color:  #006666;
+		float: right;
+		color: white;
+		
+		
+}
+ul, ul li {
+	display: block;
+	list-style: none;
+	
+}
+
+ul li {
+	
+	margin-right: 15px;
+	margin-left: 2px;
+}
+
+ul a:link, ul a:visited {
+	display: block;
+	width: 500px;
+	text-align: center;
+	position: relative; 
+	text-decoration: none;
+	background-color: #0099FF;
+	color: white;
+	padding: 4px;
+	border: 8px outset white;}
+
+ul a:hover {
+	border-style: inset;
+	color: gold;
+	background-color: blue;
+	padding: 9px 9px 9px 9px;}
+	
+li, ol { 
+	list-style-image: url(punktor.png); 
+	padding-left: 50px;
+	font-family: Arial;
+	color: gold;
+	font-size: 15pt;
+	text-align: left;
+	
+}
+	
+p {
+	padding-left: 30px;
+	padding-right: 30px;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+h2 {
+	font-family: Impact;
+	color: #FFCC00;
+	font-size: 28pt;
+}
+
+footer {
+	text-align: center;
+	color: gold;
+	font-family: Times-new-roman;
+	font-size: 16pt;
+	
+}
+	
+
+
+
+
+
+
+
+
+
